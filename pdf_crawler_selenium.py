@@ -3,7 +3,6 @@
 PDF Crawler CLI Tool (Selenium Version)
 Crawls HTML pages, discovers PDF links, and downloads them with validation.
 Uses Selenium WebDriver to bypass bot detection.
-
 """
 
 import argparse
