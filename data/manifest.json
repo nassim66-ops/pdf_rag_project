@@ -1,0 +1,697 @@
+{
+  "crawl_metadata": {
+    "start_url": "https://www.technology1.com/company/investors",
+    "crawled_at": "2026-02-12T13:07:43.480995+00:00",
+    "max_depth": 3,
+    "allowed_domains": [
+      "www.technology1.com"
+    ],
+    "crawler_type": "selenium"
+  },
+  "statistics": {
+    "pages_visited": 94,
+    "pdfs_discovered": 103,
+    "pdfs_downloaded": 83,
+    "failures": 3
+  },
+  "downloads": [
+    {
+      "source_url": "https://www.technology1.com/__data/assets/pdf_file/0016/117232/TNE-Continuous-Disclosure-Policy-2025.pdf",
+      "local_path": "TNE-Continuous-Disclosure-Policy-2025.pdf",
+      "downloaded_at": "2026-02-12T12:44:32.737298+00:00",
+      "content_length": 591999,
+      "sha256": "988a697a3584815fa8349d808d9f159d8aafb2fa04073ce770ec35d424d466dd",
+      "validated": true
+    },
+    {
+      "source_url": "https://www.technology1.com/__data/assets/pdf_file/0017/119510/TechnologyOne-AGM-Presentation.pdf",
+      "local_path": "46f23c33-ac1f-44a8-8f17-d6172e337e6d.tmp",
+      "downloaded_at": "2026-02-12T12:44:32.963385+00:00",
+      "content_length": 4483,
+      "sha256": "00fced5c0fb2d7a08189c9abc85f1f674794f03111099375495f76acae2b5f61",
+      "validated": true
+    },
+    {
+      "source_url": "https://www.technology1.com/__data/assets/pdf_file/0012/269859/TNE-Proposed-Constitution-FY24.pdf",
+      "local_path": "a0b2f2e7-3821-4ea3-af7d-09fe6446c114.tmp",
+      "downloaded_at": "2026-02-12T12:45:03.991590+00:00",
+      "content_length": 3310,
+      "sha256": "6df985bcc7c9a1f220217ba0ab1b07ae6bf9da96693e95fa03817c3ef045edad",
+      "validated": true
+    },
+    {
+      "source_url": "https://www.technology1.com/__data/assets/pdf_file/0004/300010/TechnologyOne-Annual-Report-2025.pdf",
+      "local_path": "cd10ebde-1044-4849-912b-8e4949615675.tmp",
+      "downloaded_at": "2026-02-12T12:45:04.275026+00:00",
+      "content_length": 2135,
+      "sha256": "ccbbb283a6584f9af1b6b06995cb071f3e47235c067951d616d8b229e3abbac1",
+      "validated": true
+    },
+    {
+      "source_url": "https://www.technology1.com/__data/assets/pdf_file/0018/117225/TNE-Board-Charter-FY23.pdf",
+      "local_path": "82c706f7-9e6a-41a2-b674-097a05caffc8.tmp",
+      "downloaded_at": "2026-02-12T12:45:35.371930+00:00",
+      "content_length": 960,
+      "sha256": "d21bce84f5254df116d713710728556d2181cbd5f7e0d56aaa6d1c5c63ea2b25",
+      "validated": true
+    },
+    {
+      "source_url": "https://www.technology1.com/__data/assets/pdf_file/0007/119509/TechnologyOne-2015-Notice-of-Meeting.pdf",
+      "local_path": "b026dd2c-8fd1-4cf5-aa1c-ebbf9d608f1f.tmp",
+      "downloaded_at": "2026-02-12T12:46:06.806258+00:00",
+      "content_length": 4484,
+      "sha256": "6ea5529a7d32e8498f6cfaab735b7e576c68b67845adb08fe54b2465302c6335",
+      "validated": true
+    },
+    {
+      "source_url": "https://www.technology1.com/__data/assets/pdf_file/0020/206192/WGEA-Public-Report-Questionnaire.pdf",
+      "local_path": "TechnologyOne-2015-Notice-of-Meeting.pdf",
+      "downloaded_at": "2026-02-12T12:46:07.535233+00:00",
+      "content_length": 113198,
+      "sha256": "509cbd7f9634f44c8001b47a72c4a0d70d2f69e6f3f7bb6c7059a2a0475fcaf1",
+      "validated": true
+    },
+    {
+      "source_url": "https://www.technology1.com/__data/assets/pdf_file/0013/212521/TechnologyOne-2022-Full-Year-Results-Presentation.pdf",
+      "local_path": "c136e412-6083-4645-b5b3-df7992409b73.tmp",
+      "downloaded_at": "2026-02-12T12:46:07.749186+00:00",
+      "content_length": 3309,
+      "sha256": "4f469a1a19f9b7626c23e4743d119bd34b1ae62bc4b159f2fa13da6378b2c3a5",
+      "validated": true
+    },
+    {
+      "source_url": "https://www.technology1.com/__data/assets/pdf_file/0005/193874/TechnologyOne-FY22-Half-Year-Results-Announcement.pdf",
+      "local_path": "4350bb07-fc17-47a1-bf35-01b387a640ae.tmp",
+      "downloaded_at": "2026-02-12T12:46:38.917924+00:00",
+      "content_length": 2135,
+      "sha256": "22406a48baf3f093fd1c58d3dbdd465613cb80c458d7b326913f30b465fd197f",
+      "validated": true
+    },
+    {
+      "source_url": "https://www.technology1.com/__data/assets/pdf_file/0009/119493/2018-Annual-Report.pdf",
+      "local_path": "6ef9e0e9-058a-42fa-99a2-e3763a6a958b.tmp",
+      "downloaded_at": "2026-02-12T12:47:10.023522+00:00",
+      "content_length": 2134,
+      "sha256": "400cc42cb82e724a92166e74d748e2bf0e5c7d344366a6b9d17469af67f38266",
+      "validated": true
+    },
+    {
+      "source_url": "https://www.technology1.com/__data/assets/pdf_file/0018/119502/2016-Half-Year-Report.pdf",
+      "local_path": "818b171d-1678-42ef-a5ef-23f77ad28714.tmp",
+      "downloaded_at": "2026-02-12T12:47:41.383422+00:00",
+      "content_length": 4455,
+      "sha256": "a161f3daab77195f77afb1eb92b374d23843ef7671965bd8dc089491c2cc9f55",
+      "validated": true
+    },
+    {
+      "source_url": "https://www.technology1.com/__data/assets/pdf_file/0004/246757/TNE-Modern-Slavery-Statement-FY25.pdf",
+      "local_path": "2b874d9a-26c4-425d-a246-95648a73d0bf.tmp",
+      "downloaded_at": "2026-02-12T12:47:41.948777+00:00",
+      "content_length": 363,
+      "sha256": "98a563b0ed6a382aca8a911d16b0192982d55b50d1dc748020fbfbfb194d7b50",
+      "validated": true
+    },
+    {
+      "source_url": "https://www.technology1.com/__data/assets/pdf_file/0011/119495/TechnologyOne_2017_Half_year_report.pdf",
+      "local_path": "0056ada8-02b3-40ab-88d8-9f92bc60c0e4.tmp",
+      "downloaded_at": "2026-02-12T12:48:13.098346+00:00",
+      "content_length": 2135,
+      "sha256": "bc9834ccf2b3014ff0cf00988bde6c957805ffc0a3624dd784b50b54a158a4e4",
+      "validated": true
+    },
+    {
+      "source_url": "https://www.technology1.com/__data/assets/pdf_file/0005/278312/Half-Year-Results-Presentation-2025-TechnologyOne.pdf",
+      "local_path": "4b5ee931-5088-4dd0-99d2-8e28ac286054.tmp",
+      "downloaded_at": "2026-02-12T12:48:13.716151+00:00",
+      "content_length": 2134,
+      "sha256": "d80793cf57e34b0663dfc8051af60d9c324e51878105d1f9c179255fd01bb341",
+      "validated": true
+    },
+    {
+      "source_url": "https://www.technology1.com/__data/assets/pdf_file/0020/215066/TNE-rTSR-Methodology.pdf",
+      "local_path": "Half-Year-Results-Presentation-2025-TechnologyOne.pdf.crdownload",
+      "downloaded_at": "2026-02-12T12:48:44.294680+00:00",
+      "content_length": 2381084,
+      "sha256": "1e71853e58ea61297a7006c3ddbf81bb32e4bbea48d0e8cf7c957766313a9a65",
+      "validated": true
+    },
+    {
+      "source_url": "https://www.technology1.com/__data/assets/pdf_file/0018/119511/TechnologyOne-2015-Annual-Report.pdf",
+      "local_path": "20cd6d03-e1a8-4b9e-98a4-ed5dc23ac1a4.tmp",
+      "downloaded_at": "2026-02-12T12:48:46.896467+00:00",
+      "content_length": 654,
+      "sha256": "e63287f858c81fbc7ee792d0b8c3f877142313767da322e7266bf109c1e5f94c",
+      "validated": true
+    },
+    {
+      "source_url": "https://www.technology1.com/__data/assets/pdf_file/0016/130705/TNE-FY20-Results-Presentation.pdf",
+      "local_path": "TechnologyOne-2015-Annual-Report.pdf.crdownload",
+      "downloaded_at": "2026-02-12T12:49:17.264410+00:00",
+      "content_length": 2907483,
+      "sha256": "264c138a5bf8247f5cfd12f205ade2e028ef2f839998df74c9f49d29b2a76d20",
+      "validated": true
+    },
+    {
+      "source_url": "https://www.technology1.com/__data/assets/pdf_file/0009/278307/Half-Year-Results-ASX-Announcement-2025-TechnologyOne.pdf",
+      "local_path": "0f1bc752-1ab7-4ef8-91c1-62fa5569462e.tmp",
+      "downloaded_at": "2026-02-12T12:49:17.564035+00:00",
+      "content_length": 982,
+      "sha256": "57ab18b1c29938ca78bd542691dc622be600df232bf44cf42c9085afafb22ddd",
+      "validated": true
+    },
+    {
+      "source_url": "https://www.technology1.com/__data/assets/pdf_file/0015/223602/TNE-2023-Half-Year-Results-Presentation.pdf",
+      "local_path": "ecf2c2ff-e9f9-42b6-afcf-d1e7ba7438e6.tmp",
+      "downloaded_at": "2026-02-12T12:49:49.442957+00:00",
+      "content_length": 361,
+      "sha256": "388c01019a6c528f71f0db3bdb702806c34c5c685c337d521f79eb10102153db",
+      "validated": true
+    },
+    {
+      "source_url": "https://www.technology1.com/__data/assets/pdf_file/0005/215456/230222-TNE-Omnibus-Incentive-Plan-v05-FINAL-Cln.pdf",
+      "local_path": "75f95757-3693-4c8a-bdf2-7b7db907479d.tmp",
+      "downloaded_at": "2026-02-12T12:49:49.810096+00:00",
+      "content_length": 961,
+      "sha256": "a784670603cdb1045ebdec5316a9f4383bb7e0c06c12d2ad0e1f7637fea8d2d5",
+      "validated": true
+    },
+    {
+      "source_url": "https://www.technology1.com/__data/assets/pdf_file/0011/119486/191119-TNE-FY2019-Results-Release-Final.pdf",
+      "local_path": "534d5f45-fc6c-432d-ab28-a4d83caef834.tmp",
+      "downloaded_at": "2026-02-12T12:50:20.744765+00:00",
+      "content_length": 961,
+      "sha256": "fa9deac23542e9fb900eb575dcdba1d52801603836ea5c9f80b0df6c556fef80",
+      "validated": true
+    },
+    {
+      "source_url": "https://www.technology1.com/__data/assets/pdf_file/0019/251128/2024-Half-Year-Results-TechnologyOne.pdf",
+      "local_path": "7920b5e9-1a3f-4f6c-9db0-80314466bb16.tmp",
+      "downloaded_at": "2026-02-12T12:50:53.210882+00:00",
+      "content_length": 6533,
+      "sha256": "6ecfee14582ed47366e1ada7eda54d278b29b85d5ad800072f969255f0dd8ffe",
+      "validated": true
+    },
+    {
+      "source_url": "https://www.technology1.com/__data/assets/pdf_file/0004/142294/Sustainability-Report-FY25.pdf",
+      "local_path": "Sustainability-Report-FY25.pdf.crdownload",
+      "downloaded_at": "2026-02-12T12:51:24.015136+00:00",
+      "content_length": 4748666,
+      "sha256": "c42952faf51209f6e168a038425fb49766a6990659bdb2f4f83d5caa51dab60a",
+      "validated": true
+    },
+    {
+      "source_url": "https://www.technology1.com/__data/assets/pdf_file/0011/269696/2025_TNE-VM-Online-Guide.pdf",
+      "local_path": "bb7f37ef-c150-4ede-8fc1-6d935d1f2106.tmp",
+      "downloaded_at": "2026-02-12T12:51:24.342007+00:00",
+      "content_length": 963,
+      "sha256": "d734fed5fe06989e3078f6b9fcdc0c0b76861cffde30c2673c35038a7aa8a9e6",
+      "validated": true
+    },
+    {
+      "source_url": "https://www.technology1.com/__data/assets/pdf_file/0007/238543/FY23-full-year-results-presentation.pdf",
+      "local_path": "0cdd15f8-7da1-4f0f-9763-cb5a36242711.tmp",
+      "downloaded_at": "2026-02-12T12:51:55.426831+00:00",
+      "content_length": 2136,
+      "sha256": "4b222757ee521cfcf16cd40a7155ccb34b35f31b44cfdb958800df90b751a260",
+      "validated": true
+    },
+    {
+      "source_url": "https://www.technology1.com/__data/assets/pdf_file/0015/117222/TNE-NGC-Charter-FY23.pdf",
+      "local_path": "FY23-full-year-results-presentation.pdf.crdownload",
+      "downloaded_at": "2026-02-12T12:52:26.392829+00:00",
+      "content_length": 2237904,
+      "sha256": "5ea0b83d86527f31279e942ae260eaa223823316eaf554d8988be8250e160324",
+      "validated": true
+    },
+    {
+      "source_url": "https://www.technology1.com/__data/assets/pdf_file/0019/130717/TNE-H1-FY20-Results-Presentation.pdf",
+      "local_path": "285157b3-d5f9-44de-9870-7e59c420fef8.tmp",
+      "downloaded_at": "2026-02-12T12:52:26.755598+00:00",
+      "content_length": 961,
+      "sha256": "61bec1d75fbb81dca344079cbe7eb5d70050988f271e0758c5b91b0c21811f49",
+      "validated": true
+    },
+    {
+      "source_url": "https://www.technology1.com/__data/assets/pdf_file/0014/223601/TNE-Half-Year-Results-Announcement-2023.pdf",
+      "local_path": "TNE-H1-FY20-Results-Presentation.pdf.crdownload",
+      "downloaded_at": "2026-02-12T12:52:57.706024+00:00",
+      "content_length": 1923395,
+      "sha256": "d5378abadc217a82d38d16c4dd9378582b4e08950f6b7ace464741be211400ce",
+      "validated": true
+    },
+    {
+      "source_url": "https://www.technology1.com/__data/assets/pdf_file/0008/136682/ISO27018.pdf",
+      "local_path": "e43e3858-4d74-4db3-8b8e-3bb5e9cd8a8a.tmp",
+      "downloaded_at": "2026-02-12T12:52:58.100072+00:00",
+      "content_length": 963,
+      "sha256": "ac4b88a0afb5fd8e43231d553e08c32c9a72eb82d6bfee1b8f87e90bfdc2b44a",
+      "validated": true
+    },
+    {
+      "source_url": "https://www.technology1.com/__data/assets/pdf_file/0003/119487/FY19-Annual-Report.pdf",
+      "local_path": "c9178ba5-f744-4381-a4d3-101e6dcfeda0.tmp",
+      "downloaded_at": "2026-02-12T12:53:29.199342+00:00",
+      "content_length": 737,
+      "sha256": "4c35eeba9f8fb7f4ecfc9567cf5f3f26fd8d26607e06418aa7516b2bbb557acc",
+      "validated": true
+    },
+    {
+      "source_url": "https://www.technology1.com/__data/assets/pdf_file/0009/295317/TNE-FY25-Results-Release-ASX.pdf",
+      "local_path": "FY19-Annual-Report.pdf.crdownload",
+      "downloaded_at": "2026-02-12T12:53:59.799071+00:00",
+      "content_length": 1708214,
+      "sha256": "5f37d360a483773d2bf6c6e369436b7279468cfc482a2866cfc996a6de402fdc",
+      "validated": true
+    },
+    {
+      "source_url": "https://www.technology1.com/__data/assets/pdf_file/0007/268801/2024-Annual-Report-TechnologyOne.pdf",
+      "local_path": "dd5ed583-b350-42da-904c-ec92a0afa7f9.tmp",
+      "downloaded_at": "2026-02-12T12:54:00.219511+00:00",
+      "content_length": 959,
+      "sha256": "23916e52695ab3ee39398926c5c55d1b8afb15580a1053f8c195e717e0cf25fd",
+      "validated": true
+    },
+    {
+      "source_url": "https://www.technology1.com/__data/assets/pdf_file/0007/136681/ISO27001.pdf",
+      "local_path": "ad82b117-683c-482b-8eb6-ee847ac96e51.tmp",
+      "downloaded_at": "2026-02-12T12:54:00.726701+00:00",
+      "content_length": 960,
+      "sha256": "5093b24cd39c3e7fb5505a4faa5790c2026ad92231b060c15ccb88247343411a",
+      "validated": true
+    },
+    {
+      "source_url": "https://www.technology1.com/__data/assets/pdf_file/0011/242669/TNE-Notice-of-Meeting-and-Proxy-Form-FY23-AGM.pdf",
+      "local_path": "568807e9-42be-40fa-9988-c92a295a0490.tmp",
+      "downloaded_at": "2026-02-12T12:54:32.408441+00:00",
+      "content_length": 654,
+      "sha256": "97bccf3ac5ebf026d3cd520ed7cde4bb9f66094326bdbb6ef8072bb04baf15ef",
+      "validated": true
+    },
+    {
+      "source_url": "https://www.technology1.com/__data/assets/pdf_file/0007/164293/FY21-Full-Year-Results-announcement.pdf",
+      "local_path": "19156e3d-2005-4470-8788-30fa72b5c89d.tmp",
+      "downloaded_at": "2026-02-12T12:55:03.465948+00:00",
+      "content_length": 947,
+      "sha256": "ee116f433bf8b4b59e6d5571d6d824ab1003c7dfe67f259456e47bfc55ee92e2",
+      "validated": true
+    },
+    {
+      "source_url": "https://www.technology1.com/__data/assets/pdf_file/0006/119499/TechnologyOne_2017_AnnualReport.pdf",
+      "local_path": "35d3dc62-d91a-4d61-8188-a9a3e7df9fe6.tmp",
+      "downloaded_at": "2026-02-12T12:55:34.557856+00:00",
+      "content_length": 959,
+      "sha256": "86afda8338f228307a0f60400316d42fb2fef821eabf7bfdf36f6c69a5591c36",
+      "validated": true
+    },
+    {
+      "source_url": "https://www.technology1.com/__data/assets/pdf_file/0019/117235/TNE-Code-of-Business-Conduct.pdf",
+      "local_path": "TechnologyOne_2017_AnnualReport.pdf.crdownload",
+      "downloaded_at": "2026-02-12T12:56:04.881116+00:00",
+      "content_length": 1528370,
+      "sha256": "f29092aaa4bf3f69ab496b53853c615e9f595d2d0513348baaedce025cff35ba",
+      "validated": true
+    },
+    {
+      "source_url": "https://www.technology1.com/__data/assets/pdf_file/0009/156591/Cyber-Essentials-Certificate-2025.pdf",
+      "local_path": "7eab4d33-29bf-436c-8b75-fbd9a198b5ad.tmp",
+      "downloaded_at": "2026-02-12T12:56:05.194173+00:00",
+      "content_length": 960,
+      "sha256": "fb76b48346a5e53bf68de924ac80eef68305957853f54768ef4852579b67f045",
+      "validated": true
+    },
+    {
+      "source_url": "https://www.technology1.com/__data/assets/pdf_file/0020/142292/Corporate-Governance-Statement.pdf",
+      "local_path": "Cyber-Essentials-Certificate-2025.pdf.crdownload",
+      "downloaded_at": "2026-02-12T12:56:35.758194+00:00",
+      "content_length": 1866388,
+      "sha256": "a28ca1404654de8989d26c4c331f782728502d17bb48f20cd66780201a7d91e3",
+      "validated": true
+    },
+    {
+      "source_url": "https://www.technology1.com/__data/assets/pdf_file/0006/119508/CORP_Half-Year-Report_2015_LR.pdf",
+      "local_path": "96c12e6d-52dd-42cd-aa61-ae70bfba83db.tmp",
+      "downloaded_at": "2026-02-12T12:56:36.058442+00:00",
+      "content_length": 959,
+      "sha256": "5c0bffa4352c026c5a63d24d15dadb48de89992ff5fa84142ddff9c992053fab",
+      "validated": true
+    },
+    {
+      "source_url": "https://www.technology1.com/__data/assets/pdf_file/0008/247589/Gender-Pay-Gap-Statement_APRIL-24.pdf",
+      "local_path": "3c71254b-fc29-45b2-9cbc-561217611c92.tmp",
+      "downloaded_at": "2026-02-12T12:56:36.402756+00:00",
+      "content_length": 963,
+      "sha256": "871441e68b744ad6d343306d8fe9efd08886e89fdeec39486943b6bb4739a36b",
+      "validated": true
+    },
+    {
+      "source_url": "https://www.technology1.com/__data/assets/pdf_file/0008/281969/CourseLoop-Cyber-Essentials-Plus-Certificate-2025.pdf",
+      "local_path": "7c5b3540-14ac-43d1-878f-53f0efae387b.tmp",
+      "downloaded_at": "2026-02-12T12:57:06.972299+00:00",
+      "content_length": 960,
+      "sha256": "d6e57b7b1d2fc15bea063e357469b1927c15c04343a582fef7305de03269c434",
+      "validated": true
+    },
+    {
+      "source_url": "https://www.technology1.com/__data/assets/pdf_file/0017/119501/Technology-One_2016_Full-Year-Results-Chairmans-Presentation.pdf",
+      "local_path": "8c7cc1e6-f132-46cf-853e-2fce1e97659a.tmp",
+      "downloaded_at": "2026-02-12T12:57:07.288762+00:00",
+      "content_length": 959,
+      "sha256": "6c075e818ef07cd302aec6289606da0a4ff9857f38b511b3996aebf53e730be2",
+      "validated": true
+    },
+    {
+      "source_url": "https://www.technology1.com/__data/assets/pdf_file/0011/116588/TechnologyOne-Privacy-Policy.pdf",
+      "local_path": "12c901a5-2d86-4dca-a78a-03fc24f9cb96.tmp",
+      "downloaded_at": "2026-02-12T12:57:07.699728+00:00",
+      "content_length": 960,
+      "sha256": "64c858936c70457a29908295343976fc3278c14fe5bafff7fa5f9ff36ec5bf8e",
+      "validated": true
+    },
+    {
+      "source_url": "https://www.technology1.com/__data/assets/pdf_file/0008/119852/TNE-Whistleblower-Policy-Statement.pdf",
+      "local_path": "TechnologyOne-Privacy-Policy.pdf.crdownload",
+      "downloaded_at": "2026-02-12T12:57:38.051565+00:00",
+      "content_length": 450716,
+      "sha256": "a5123ae4d4a48af10960b9c4ba83b09c1211dad25d902b83a192e0c060035ac3",
+      "validated": true
+    },
+    {
+      "source_url": "https://www.technology1.com/__data/assets/pdf_file/0006/164292/211123-3-TNE-FY21-Results-Presentation.pdf",
+      "local_path": "c69d2605-d3ba-4805-949f-3e2773f46707.tmp",
+      "downloaded_at": "2026-02-12T12:57:38.411004+00:00",
+      "content_length": 815,
+      "sha256": "fa5d151309ac5e3a587b9efba9b12714f9c4468550b5e503fd4e591a555bf66b",
+      "validated": true
+    },
+    {
+      "source_url": "https://www.technology1.com/__data/assets/pdf_file/0015/117231/TNE-Share-Trading-Policy-Blackout-Periods-FY25-006.pdf",
+      "local_path": "211123-3-TNE-FY21-Results-Presentation.pdf.crdownload",
+      "downloaded_at": "2026-02-12T12:58:08.858159+00:00",
+      "content_length": 326533,
+      "sha256": "cd2ff553e10d8be7f95d454c3e3bba3540fa8c9b72eb1425393cad9b239b8661",
+      "validated": true
+    },
+    {
+      "source_url": "https://www.technology1.com/__data/assets/pdf_file/0008/119483/3.-TNE-H1-2019-Results-Presentation.pdf",
+      "local_path": "6352abf4-1c54-4544-b6a8-712c80dc6385.tmp",
+      "downloaded_at": "2026-02-12T12:58:09.599873+00:00",
+      "content_length": 960,
+      "sha256": "b881a35d5ebf70ee515fef42e41443db9d587c1cf3e90b6dceb7fe3acd59d713",
+      "validated": true
+    },
+    {
+      "source_url": "https://www.technology1.com/__data/assets/pdf_file/0006/278313/Half-Year-Results-Report-and-Appendix-4D.pdf",
+      "local_path": "3.-TNE-H1-2019-Results-Presentation.pdf.crdownload",
+      "downloaded_at": "2026-02-12T12:58:39.951562+00:00",
+      "content_length": 636674,
+      "sha256": "6ad59a72c03d18423340c231621a83d796f9012ce1104c07e9d25c5b354de462",
+      "validated": true
+    },
+    {
+      "source_url": "https://www.technology1.com/__data/assets/pdf_file/0018/206244/TNE-Supplier-Code-of-Conduct-2025.pdf",
+      "local_path": "9de51527-a2e5-4e26-95e1-2307186f166f.tmp",
+      "downloaded_at": "2026-02-12T12:58:40.425046+00:00",
+      "content_length": 960,
+      "sha256": "60a40e5c197f82e71efe6428ff499f0a2145d396edbaa9a847ed60d70bd532f9",
+      "validated": true
+    },
+    {
+      "source_url": "https://www.technology1.com/__data/assets/pdf_file/0006/301200/2025-AGM-Notice-of-Meeting-with-Proxy-Form.pdf",
+      "local_path": "TNE-Supplier-Code-of-Conduct-2025.pdf.crdownload",
+      "downloaded_at": "2026-02-12T12:59:11.417870+00:00",
+      "content_length": 206933,
+      "sha256": "939a3c7b2e6981fedf4959fba7d8b1a546e7e8b1b6bc24a4140150bef563bbaf",
+      "validated": true
+    },
+    {
+      "source_url": "https://www.technology1.com/__data/assets/pdf_file/0019/150580/FY21-Half-Year-Results-Presentation.pdf",
+      "local_path": "fe05d14c-23b7-4b96-8e89-1450e042613c.tmp",
+      "downloaded_at": "2026-02-12T12:59:13.237015+00:00",
+      "content_length": 572,
+      "sha256": "bb54bf9e993c5209a121084897ff270f54fe47e6c7185df98ab952e6d1483be9",
+      "validated": true
+    },
+    {
+      "source_url": "https://www.technology1.com/__data/assets/pdf_file/0010/119485/191119-TNE-FY19-Results-Roadshow.115.pdf",
+      "local_path": "9a4b44e4-6ecd-493c-8aad-1f6a028947a6.tmp",
+      "downloaded_at": "2026-02-12T12:59:14.168482+00:00",
+      "content_length": 960,
+      "sha256": "983a97bd3646aa93c540fdf004c8b9ea135801f6a57303cc479698ea050665d4",
+      "validated": true
+    },
+    {
+      "source_url": "https://www.technology1.com/__data/assets/pdf_file/0010/267823/FY24-Results-Presentation.pdf",
+      "local_path": "191119-TNE-FY19-Results-Roadshow.115.pdf.crdownload",
+      "downloaded_at": "2026-02-12T12:59:45.227387+00:00",
+      "content_length": 82368,
+      "sha256": "7fb58787b0a789f1553fe7128883fdd5dda9ca9cfe0ef92b91e8e88e2069181e",
+      "validated": true
+    },
+    {
+      "source_url": "https://www.technology1.com/__data/assets/pdf_file/0008/295316/Full-Year-Results-Presentation-2025-TechnologyOne.pdf",
+      "local_path": "42548048-1639-4a74-953f-10980b074d30.tmp",
+      "downloaded_at": "2026-02-12T13:00:04.204221+00:00",
+      "content_length": 652,
+      "sha256": "8544d96f77f9101a807b9ff06065695571d70c3622762d7261503c912cf722d3",
+      "validated": true
+    },
+    {
+      "source_url": "https://www.technology1.com/__data/assets/pdf_file/0006/215457/Virtual-Meeting-Online-Guide.pdf",
+      "local_path": "f04a61ac-f6d8-49ba-b8a8-9694107af6b3.tmp",
+      "downloaded_at": "2026-02-12T13:00:04.906676+00:00",
+      "content_length": 1073,
+      "sha256": "2e24f9e6aa7f608676e49680b50490ae5011e09b444460e25c9705314e9bc1f4",
+      "validated": true
+    },
+    {
+      "source_url": "https://www.technology1.com/_media/documents/pdf/legal/Event-Terms-and-Conditions.pdf",
+      "local_path": "cc2965a6-c9ec-4e37-9854-23c79dc02b32.tmp",
+      "downloaded_at": "2026-02-12T13:00:05.906727+00:00",
+      "content_length": 695,
+      "sha256": "e546ce7f07e7f275338349c375131472d31dd020d47ef11dceb52597f94b0860",
+      "validated": true
+    },
+    {
+      "source_url": "https://www.technology1.com/__data/assets/pdf_file/0005/119498/2017-12-17-AGM-Presn.031-tues-morn-FINAL-5.0am.pdf",
+      "local_path": "b3ba5555-b83f-4c8f-ad6f-510abdac34a2.tmp",
+      "downloaded_at": "2026-02-12T13:00:38.018314+00:00",
+      "content_length": 376,
+      "sha256": "584cb5274404ec168498901af39853bca207a24b987215cea713e6c9107d35bf",
+      "validated": true
+    },
+    {
+      "source_url": "https://www.technology1.com/__data/assets/pdf_file/0010/119494/TechnologyOne-2017-Half-Year-Results-Presentation.pdf",
+      "local_path": "3f03c7fc-7a40-4454-b8e3-c69329af8089.tmp",
+      "downloaded_at": "2026-02-12T13:00:38.529502+00:00",
+      "content_length": 961,
+      "sha256": "172fa445966445e5596b0f6445629bd03232fc6f20bc5ee09b9bc0dbbd4af851",
+      "validated": true
+    },
+    {
+      "source_url": "https://www.technology1.com/__data/assets/pdf_file/0008/119492/2018-Annual-General-Meeting-Notice-of-Meeting.pdf",
+      "local_path": "d0b53e3e-9f4b-408e-8bbc-8179e0d5df29.tmp",
+      "downloaded_at": "2026-02-12T13:00:39.385993+00:00",
+      "content_length": 3357,
+      "sha256": "528bba9fc687f01f721849edb9584d1f77bf7500fb8545b9fa57f436b94b1e9a",
+      "validated": true
+    },
+    {
+      "source_url": "https://www.technology1.com/__data/assets/pdf_file/0018/117234/Diversity-Policy-TechnologyOne.pdf",
+      "local_path": "e318407c-1144-443b-b199-d993b4442ef1.tmp",
+      "downloaded_at": "2026-02-12T13:00:40.516086+00:00",
+      "content_length": 625,
+      "sha256": "48c6b8cd5f6224b71ccbcd1449631c7793c6d14614878e5d0577b043d148acf2",
+      "validated": true
+    },
+    {
+      "source_url": "https://www.technology1.com/__data/assets/pdf_file/0018/251127/2024-Half-Year-Results-ASX-Announcement-TechnologyOne.pdf",
+      "local_path": "Diversity-Policy-TechnologyOne.pdf.crdownload",
+      "downloaded_at": "2026-02-12T13:01:11.070200+00:00",
+      "content_length": 75724,
+      "sha256": "2b3daa4fa6c5a20dba6149bcc7bec4ff5dc3f4eeb6ca3605054405904dd5059e",
+      "validated": true
+    },
+    {
+      "source_url": "https://www.technology1.com/__data/assets/pdf_file/0019/130708/TNE-H1-FY20-Half-Year-Results-Release.pdf",
+      "local_path": "110d02f5-eb31-4435-a286-596198adcd54.tmp",
+      "downloaded_at": "2026-02-12T13:01:12.951836+00:00",
+      "content_length": 960,
+      "sha256": "b190aed607e756ec71d63edb86daf41df8983b18098e18d522a0720b891901a9",
+      "validated": true
+    },
+    {
+      "source_url": "https://www.technology1.com/__data/assets/pdf_file/0007/301201/TNE-2025-AGM-Virtual-Meeting-Guide.pdf",
+      "local_path": "TNE-H1-FY20-Half-Year-Results-Release.pdf.crdownload",
+      "downloaded_at": "2026-02-12T13:01:45.180575+00:00",
+      "content_length": 67435,
+      "sha256": "7d0702c4bdb014d2985a96ea84444e5347c3039af461068255967541e5201097",
+      "validated": true
+    },
+    {
+      "source_url": "https://www.technology1.com/__data/assets/pdf_file/0012/212520/TechnologyOne-2022-Full-Year-Results-Announcement.pdf",
+      "local_path": "5318c8bf-da8a-4862-8ded-8e8afc703979.tmp",
+      "downloaded_at": "2026-02-12T13:01:47.148331+00:00",
+      "content_length": 623,
+      "sha256": "c69d7b6df560b60dadeb56f9ae3c1b015c7eecb87aa626492d605377640276d3",
+      "validated": true
+    },
+    {
+      "source_url": "https://www.technology1.com/__data/assets/pdf_file/0006/281985/CourseLoop-Cyber-Essentials-Certificate-2025.pdf",
+      "local_path": "TechnologyOne-2022-Full-Year-Results-Announcement.pdf.crdownload",
+      "downloaded_at": "2026-02-12T13:02:17.789259+00:00",
+      "content_length": 48434,
+      "sha256": "28a5813eac6c232db0416d39f75ed1aee9ef74e8beb4270c018b358a61f2dca2",
+      "validated": true
+    },
+    {
+      "source_url": "https://www.technology1.com/__data/assets/pdf_file/0004/215455/2022-Annual-General-Meeting-Notice-of-Meeting-TechnologyOne.pdf",
+      "local_path": "faab02d3-bcc0-4894-bec1-1cc4fda1c4c3.tmp",
+      "downloaded_at": "2026-02-12T13:02:20.241808+00:00",
+      "content_length": 652,
+      "sha256": "6215b453b3211dcb843e7939ffcaeb02b3c904142073a9c65eadf5b9fdc511a0",
+      "validated": true
+    },
+    {
+      "source_url": "https://www.technology1.com/__data/assets/pdf_file/0004/119488/2018-Half-Year-Presentation.pdf",
+      "local_path": "2022-Annual-General-Meeting-Notice-of-Meeting-TechnologyOne.pdf.crdownload",
+      "downloaded_at": "2026-02-12T13:02:51.742704+00:00",
+      "content_length": 42602,
+      "sha256": "f6fb6cbbd725e703d754d7956b6f3b272f3bc0a5f419ae5ab4c880d0f04aefec",
+      "validated": true
+    },
+    {
+      "source_url": "https://www.technology1.com/__data/assets/pdf_file/0018/130392/Technology_One_Limited_Constitution.pdf",
+      "local_path": "CourseLoop-Cyber-Essentials-Plus-Certificate-2025.pdf",
+      "downloaded_at": "2026-02-12T13:03:01.130116+00:00",
+      "content_length": 2924139,
+      "sha256": "561dd5342ff1b8b76163b35de84633f239e9898dcebce81d99a3eea4f3cca16c",
+      "validated": true
+    },
+    {
+      "source_url": "https://www.technology1.com/__data/assets/pdf_file/0016/119500/2016-Roadshow-Half-Year-Presentation_FINAL.pdf",
+      "local_path": "e2ad6fe4-740d-471c-8411-4a6ca0d7c011.tmp",
+      "downloaded_at": "2026-02-12T13:03:01.654947+00:00",
+      "content_length": 960,
+      "sha256": "328092a383403deaa6b0c27982e88dada119ecd98a06dd6b820e66e5d558b67e",
+      "validated": true
+    },
+    {
+      "source_url": "https://www.technology1.com/__data/assets/pdf_file/0020/119504/TechnologyOne_2016_AGM_Presentation.pdf",
+      "local_path": "2016-Roadshow-Half-Year-Presentation_FINAL.pdf.crdownload",
+      "downloaded_at": "2026-02-12T13:03:32.220715+00:00",
+      "content_length": 137504,
+      "sha256": "74e0a051e90e6740986adc9250ade88e8e80ff333222e673a6a2f51b047cb2e7",
+      "validated": true
+    },
+    {
+      "source_url": "https://www.technology1.com/__data/assets/pdf_file/0017/181304/FY21-Annual-Report.pdf",
+      "local_path": "1cd51e62-285d-4a0d-bbbf-ed6f79587ab0.tmp",
+      "downloaded_at": "2026-02-12T13:03:32.618456+00:00",
+      "content_length": 960,
+      "sha256": "493527171a77df716e25bdb3fd866fd1857bd3c9f0e531d2a090bb3607043df6",
+      "validated": true
+    },
+    {
+      "source_url": "https://www.technology1.com/__data/assets/pdf_file/0018/251172/2.-TNE-H1-FY24-App4D-Half-Year-Financial-Report.pdf",
+      "local_path": "FY21-Annual-Report.pdf.crdownload",
+      "downloaded_at": "2026-02-12T13:04:03.671346+00:00",
+      "content_length": 270396,
+      "sha256": "0ade26c451f156586977151e3a97da4ff39b48168ab187d778123a2f9862f0f6",
+      "validated": true
+    },
+    {
+      "source_url": "https://www.technology1.com/__data/assets/pdf_file/0004/119497/TechnologyOne_2017_Notice_Of_Meeting_Annual_General_Meeting.pdf",
+      "local_path": "a1497e17-d176-4c6f-ab91-04ad8725eb5f.tmp",
+      "downloaded_at": "2026-02-12T13:04:04.304829+00:00",
+      "content_length": 960,
+      "sha256": "338be75cf6195a02f3833920b16b318d980a3385b9bff3e40dfa60bbfb802a71",
+      "validated": true
+    },
+    {
+      "source_url": "https://www.technology1.com/__data/assets/pdf_file/0011/295229/TechnologyOne_AI-Policy.pdf",
+      "local_path": "TechnologyOne_2017_Notice_Of_Meeting_Annual_General_Meeting.pdf.crdownload",
+      "downloaded_at": "2026-02-12T13:04:35.251815+00:00",
+      "content_length": 290028,
+      "sha256": "912dc81adcec2b86b84cc6f78216ccf7f611ce67376996c8209eedc5158844ed",
+      "validated": true
+    },
+    {
+      "source_url": "https://www.technology1.com/__data/assets/pdf_file/0016/181303/FY21-Notice-of-Meeting.pdf",
+      "local_path": "0d0bb37c-cd8c-4c39-a334-01592d53d6f6.tmp",
+      "downloaded_at": "2026-02-12T13:04:36.858603+00:00",
+      "content_length": 960,
+      "sha256": "f882ad72684f503487bd52d74dcb15d56a9063ef7775f9574bb5a3ef548281b6",
+      "validated": true
+    },
+    {
+      "source_url": "https://www.technology1.com/__data/assets/pdf_file/0017/143216/TNE-Bribery-and-Corruption-Policy-2025-001.pdf",
+      "local_path": "TechnologyOne_2017_Notice_Of_Meeting_Annual_General_Meeting.pdf",
+      "downloaded_at": "2026-02-12T13:04:37.808585+00:00",
+      "content_length": 327846,
+      "sha256": "e4caa4e080f51ae8958b2bed8f495c1456f124d1d810f8441bf70312b9e7e809",
+      "validated": true
+    },
+    {
+      "source_url": "https://www.technology1.com/__data/assets/pdf_file/0016/143224/FY20-Annual-Report.pdf",
+      "local_path": "TNE-Bribery-and-Corruption-Policy-2025-001.pdf.crdownload",
+      "downloaded_at": "2026-02-12T13:05:09.438933+00:00",
+      "content_length": 451598,
+      "sha256": "0a0d7241391c1ea1231eb9e38e304b33fafddc091a313dcc14552ea9fe5a5a40",
+      "validated": true
+    },
+    {
+      "source_url": "https://www.technology1.com/__data/assets/pdf_file/0018/143532/FY20-Annual-General-Meeting-Notice-of-Meeting.pdf",
+      "local_path": "8f92cf6c-79e0-4a68-a328-f6461423df64.tmp",
+      "downloaded_at": "2026-02-12T13:05:10.771183+00:00",
+      "content_length": 446,
+      "sha256": "637f89409e438fb6f92b46db54d6207de9a1db0189f5ecef464edcd1f2249be6",
+      "validated": true
+    },
+    {
+      "source_url": "https://www.technology1.com/__data/assets/pdf_file/0007/242674/TNE-FY23-AGM-Virtual-Meeting-Guide.pdf",
+      "local_path": "e95620e1-5f05-4535-84e7-fc0661fed7f9.tmp",
+      "downloaded_at": "2026-02-12T13:05:11.498349+00:00",
+      "content_length": 864,
+      "sha256": "747a580ce26a4b6a54befbd8e162c5fa6617e5ba88965499f8f5aefb8f5d92c1",
+      "validated": true
+    },
+    {
+      "source_url": "https://www.technology1.com/__data/assets/pdf_file/0006/119490/2018-TNE-IFRS-Presentation.pdf",
+      "local_path": "TNE-FY23-AGM-Virtual-Meeting-Guide.pdf.crdownload",
+      "downloaded_at": "2026-02-12T13:05:42.093975+00:00",
+      "content_length": 460476,
+      "sha256": "09edb81b2f7c958c2d6c1187f9d8878a3294a9a69647850df5ada587eb6ff255",
+      "validated": true
+    },
+    {
+      "source_url": "https://www.technology1.com/__data/assets/pdf_file/0003/119505/TechnologyOne_2016_AnnualReport.pdf",
+      "local_path": "63f82fe9-e191-4402-80c4-62ff3ae131dd.tmp",
+      "downloaded_at": "2026-02-12T13:05:42.607341+00:00",
+      "content_length": 960,
+      "sha256": "a945417a1ac84dc68029a3cf82f850d2af023149c91a22b9e5e0b3c64b74b44d",
+      "validated": true
+    },
+    {
+      "source_url": "https://www.technology1.com/__data/assets/pdf_file/0010/269695/TNE-NoM-and-Proxy-Form-FY24.pdf",
+      "local_path": "0f03106a-aa0e-4ded-b130-53bcb9b5bd83.tmp",
+      "downloaded_at": "2026-02-12T13:05:43.306013+00:00",
+      "content_length": 961,
+      "sha256": "d758e6f4b16f908f90244c5db15a7023f35a60f3e0352c2a7b8d59a18938c854",
+      "validated": true
+    }
+  ],
+  "failures": [
+    {
+      "url": "https://www.technology1.com/__data/assets/pdf_file/0007/119491/2018-Full-Year-Results-Presentation-1.pdf",
+      "reason": "Not valid PDF"
+    },
+    {
+      "url": "https://www.technology1.com/__data/assets/pdf_file/0019/119503/TechnologyOne_2016_Notice_of_Annual_General_Meeting.pdf",
+      "reason": "Message: timeout: Timed out receiving message from renderer: -0.008\n  (Session info: chrome=144.0.7559.133)\nStacktrace:\nSymbols not available. Dumping unresolved backtrace:\n\t0xc95093\n\t0xc950d4\n\t0xa8b490\n\t0xa7b863\n\t0xa7b595\n\t0xa796a8\n\t0xa79ef6\n\t0xa86d3b\n\t0xa98a6e\n\t0xa9e4b6\n\t0xa7a57c\n\t0xa98803\n\t0xb15251\n\t0xaf7f56\n\t0xac96c9\n\t0xaca484\n\t0xee7e34\n\t0xee30c9\n\t0xf00add\n\t0xcadb38\n\t0xcb58ad\n\t0xc9d848\n\t0xc9da12\n\t0xc875fa\n\t0x75075d49\n\t0x77c2d83b\n\t0x77c2d7c1\n"
+    },
+    {
+      "url": "https://www.technology1.com/__data/assets/pdf_file/0019/240355/2023-Annual-Report.pdf",
+      "reason": "Not valid PDF"
+    }
+  ]
+}
