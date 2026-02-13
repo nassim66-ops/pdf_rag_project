@@ -70,7 +70,7 @@ The API will be available at `http://localhost:8000`. Use the `/ask` endpoint wi
 Install dependencies and start the frontend:
 
 ```bash
-cd frontend
+cd rag-chatbot-frontend
 pnpm i
 pnpm start
 ```
